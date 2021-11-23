@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HangingMan
+comment1.params=
+comment1.target=boolean\ isntDead()
+comment1.text=\ Method\ that\ determines\ whether\ the\ hanged\ man\ is\ dead\ (all\ body\ parts\ have\ been\ drawn)\r\n\ \ @return\ true\ if\ not\ all\ body\ parts\ have\ been\ drawn,\ false\ if\ all\ have\ been\ drawn\r\n
+comment2.params=
+comment2.target=void\ dieSomeMore()
+comment2.text=\ Method\ that\ draws\ another\ body\ part\ of\ the\ hangman\r\n\ \r\n
+comment3.params=
+comment3.target=void\ show()
+comment3.text=\ Method\ to\ show\ the\ hangman\ drawing\ in\ the\ terminal\r\n\ \r\n
+comment4.params=
+comment4.target=int\ getWrongGuesses()
+numComments=5

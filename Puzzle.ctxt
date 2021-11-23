@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Puzzle
+comment1.params=w
+comment1.target=Puzzle(java.lang.String)
+comment2.params=
+comment2.target=void\ show()
+comment2.text=\ Shows\ the\ puzzle\ on\ the\ terminal\r\n\ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getWord()
+comment3.text=\ Accessor\ method\ for\ the\ puzzle\ word\r\n\ \ @return\ the\ String\ word\r\n
+comment4.params=
+comment4.target=boolean\ isUnsolved()
+comment4.text=\ Method\ that\ determines\ whether\ the\ puzzle\ has\ been\ solved\r\n\ \ @return\ true\ if\ not\ solved,\ false\ if\ solved\r\n
+comment5.params=guess
+comment5.target=boolean\ makeGuess(java.lang.String)
+comment5.text=\ Method\ that\ takes\ guess\ and\ sees\ if\ correct\r\n\ \ @param\ guess\ letter\ guessed\ by\ player\r\n\ \ @return\ true\ if\ word\ contains\ the\ letter,\ false\ if\ the\ word\ does\ not\r\n
+numComments=6
